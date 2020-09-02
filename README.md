@@ -4,6 +4,8 @@
 
 ## How it works
 
+<big>※NOTE:</big> works only with natural numbers.
+
 Nanako is a Japanese name that contains Japanese word 七 *nana* meaning "seven".
 
 Because, in short, Nanako crypt represents numbers using 7 digits binary block.
